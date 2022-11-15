@@ -1,4 +1,4 @@
-#include "../binary_trees.h"
+#include "binary_trees.h"
 
 /**
  * launch_test - Test ancestor function and print informations
