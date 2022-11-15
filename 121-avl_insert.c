@@ -5,7 +5,7 @@
  * @value: node to insert
  * Return: pointer
  */
-avl_t *avl_insert(avl_t **tree, int value);
+avl_t *avl_insert(avl_t **tree, int value)
 {
 	return (NULL);
 }
